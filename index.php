@@ -11,7 +11,7 @@
 
 <a href="static/readme.txt">Readme</a>
 
-<a id="liveagent_button_online_573G000000000L9" href="javascript://Chat" style="display: none;" onclick="liveagent.startChat('573G000000000L9')">ggggggggg<!-- Online Chat Content --></a><div id="liveagent_button_offline_573G000000000L9" style="display: none;"><!-- Offline Chat Content --></div><script type="text/javascript">
+<a id="liveagent_button_online_573G000000000L9" href="javascript://Chat" style="display: none;" onclick="liveagent.startChat('573G000000000L9')">href="static/readme.txt">Readme<!-- Online Chat Content --></a><div id="liveagent_button_offline_573G000000000L9" style="display: none;"><!-- Offline Chat Content --></div><script type="text/javascript">
 if (!window._laq) { window._laq = []; }
 window._laq.push(function(){liveagent.showWhenOnline('573G000000000L9', document.getElementById('liveagent_button_online_573G000000000L9'));
 liveagent.showWhenOffline('573G000000000L9', document.getElementById('liveagent_button_offline_573G000000000L9'));
