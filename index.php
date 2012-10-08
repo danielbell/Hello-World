@@ -9,7 +9,7 @@
 <li>Line2.......</li>
 </ol>
 
-tffsjfjafjfahfsa
+<a href="static/readme.txt">Readme</a>
 
 <a id="liveagent_button_online_573G000000000L9" href="javascript://Chat" style="display: none;" onclick="liveagent.startChat('573G000000000L9')">ggggggggg<!-- Online Chat Content --></a><div id="liveagent_button_offline_573G000000000L9" style="display: none;"><!-- Offline Chat Content --></div><script type="text/javascript">
 if (!window._laq) { window._laq = []; }
